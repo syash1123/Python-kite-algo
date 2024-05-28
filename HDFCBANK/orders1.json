@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2024-05-27 14:55:53.697919",
+        "instrument_token": 341249,
+        "transaction_type": "SELL",
+        "symbol": "NFO:HDFCBANK24MAY1530PE",
+        "quantity": 550,
+        "price": 9.600000000000001,
+        "strike_price": 1530,
+        "strike_type": "ATM"
+    },
+    {
+        "timestamp": "2024-05-27 14:55:53.761729",
+        "instrument_token": 341249,
+        "transaction_type": "BUY",
+        "symbol": "NFO:HDFCBANK24MAY1510PE",
+        "quantity": 550,
+        "price": 5.46,
+        "strike_price": 1510,
+        "strike_type": "OTM"
+    },
+    {
+        "timestamp": "2024-05-27 14:55:53.924428",
+        "instrument_token": 738561,
+        "transaction_type": "SELL",
+        "symbol": "NFO:RELIANCE24MAY2940PE",
+        "quantity": 250,
+        "price": 16.84,
+        "strike_price": 2940,
+        "strike_type": "ATM"
+    },
+    {
+        "timestamp": "2024-05-27 14:55:53.992831",
+        "instrument_token": 738561,
+        "transaction_type": "BUY",
+        "symbol": "NFO:RELIANCE24MAY2900PE",
+        "quantity": 250,
+        "price": 9.36,
+        "strike_price": 2900,
+        "strike_type": "OTM"
+    }
+]
